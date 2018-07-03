@@ -351,12 +351,6 @@ index.html:
 
 When we enter something into the input-box, the shown-value of `owner` will be changed dynamically and automaically, since the value of `owner` is binded to the input.
 
-![屏幕快照 2018-07-01 00.54.53](assets/屏幕快照 2018-07-01 00.54.53.png)
-
-![屏幕快照 2018-07-01 00.55.02](assets/屏幕快照 2018-07-01 00.55.02.png)
-
-
-
 
 
 ## Using
@@ -423,10 +417,6 @@ index.html:
 </html>
 
 ~~~
-
-result:
-
-![屏幕快照 2018-07-01 01.02.43](assets/屏幕快照 2018-07-01 01.02.43.png)
 
 
 
