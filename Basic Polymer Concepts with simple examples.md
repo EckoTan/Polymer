@@ -173,6 +173,8 @@ customElements.define('picture-frame', PictureFrame);
 
 The index.html:
 
+
+
 ![Compose_with_shadow_DOM_Example](assets/Compose_with_shadow_DOM_Example.png)
 
 
@@ -212,6 +214,8 @@ customElements.define('name-tag', NameTag);
 ~~~
 
 
+
+![Data_Binding_Example](assets/Data_Binding_Example.png)
 
 ## Declare a property
 
@@ -287,7 +291,10 @@ index.html:
   This is Scott's name-tag element.
   ~~~
 
-  
+
+
+
+
 
 ## Bind to a property
 
@@ -350,6 +357,10 @@ index.html:
 ~~~
 
 When we enter something into the input-box, the shown-value of `owner` will be changed dynamically and automaically, since the value of `owner` is binded to the input.
+
+
+
+![Bind_Property_Example](assets/Bind_Property_Example.png)
 
 
 
@@ -418,7 +429,7 @@ index.html:
 
 ~~~
 
-
+![Using_Example](assets/Using_Example.png)
 
 > About dom-repeat: https://www.polymer-project.org/3.0/docs/api/elements/dom-repeat
 
